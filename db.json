@@ -1,4 +1,6 @@
-[
+
+{ "beer":
+    [ 
     {
         "id": "0759476d-8fed-46cc-abec-1cb02cbca0d6",
         "name": "Running Dogs Brewery",
@@ -86,3 +88,4 @@
         "pilsner": "yes"
     }
 ]
+}
