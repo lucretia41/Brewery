@@ -1,91 +1,55 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Star Wars",
+        "summary": "A group of appliances set off on a journey"
+      },
+      {
+        "id": 2,
+        "title": "Empire Strikes Back",
+        "summary": "A mix of swashbuckling, romance, and comedy"
+      },
+      {
+        "id": 3,
+        "title": "Return of the Jedi",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
 
-{ "beer":
-    [ 
-    {
-        "id": "0759476d-8fed-46cc-abec-1cb02cbca0d6",
-        "name": "Running Dogs Brewery",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
+      {
+        "id": 4,
+        "title": "The Phantom Menace",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
+      {
+        "id": 5,
+        "title": "Attack of the Clones",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
 
-    },
-    {
-        "id": "189df38b-d6a6-40c0-917e-5b172be8d859",
-        "name": "Sea Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "2907b143-57b4-49ec-aa41-07df64d1e14b",
-        "name": "Barrel Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "350f58c9-f1e6-4668-bf55-15dc557ec94c",
-        "name": "Dreaming Dog Brewery",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "7c6bc6c6-dd61-41a6-b794-6a1f742c0ebb",
-        "name": "Lead Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "8b52fa56-8b17-4ed8-b670-0bd3c4b39c2d",
-        "name": "Tin Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "c27f55b4-f410-4389-ae35-a5a9bada3578",
-        "name": "Dog Days Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "d4dc69ab-cf58-44b9-9456-cea49cf6dd35",
-        "name": "Boss Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "e2b339ba-8984-497a-ba6b-91882dec1515",
-        "name": "Flying Dog Brewery",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "e4054c02-8992-4c0c-8954-89f0d6ebaead",
-        "name": "Dog Tag Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    },
-    {
-        "id": "e4c8261f-0f96-4951-81a6-667166ce4586",
-        "name": "Laughing Dog Brewing",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-
-    },
-    {
-        "id": "e7663a51-2d14-4e31-b52b-a3cd846fd19a",
-        "name": "Dog Money Restaurant",
-        "hefeweizen": "yes",
-        "ipa": "yes",
-        "pilsner": "yes"
-    }
-]
-}
+      {
+        "id": 6,
+        "title": "Revenge of the Sith",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
+      {
+        "id": 7,
+        "title": "The Force Awakens",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
+      {
+        "id": 8,
+        "title": "The Last Jedi",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      },
+      {
+        "id": 9,
+        "title": "Rise of Skywalker",
+        "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+      }
+      
+      
+    
+      
+    ]
+  }
